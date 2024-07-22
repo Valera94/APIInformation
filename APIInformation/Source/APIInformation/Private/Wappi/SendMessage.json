@@ -1,0 +1,6 @@
+{
+    "SendMessage": {
+        "body": "Message",
+        "recipient": "Number"
+    }
+}
